@@ -15,7 +15,7 @@ type TWalletStore = {
 
 const walletStore = create<TWalletStore>((set) => ({
   address: '',
-  chainId: 1,
+  chainId: 43113,
   ready: false,
   dropdownActive: false,
   connected: false,
