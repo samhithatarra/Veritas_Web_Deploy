@@ -2,7 +2,7 @@
 
 This app scans HaLo NFC chip. A HaLo is a "hardware locked" cryptographic asset such as a print, collectable or merchandise. HaLo chips can be scanned via NFC to authenticate the asset as well as make any claims for fungible or non-fungbile assets if available.
 
-[[Slide](https://www.canva.com/design/DAFhsaAbbcs/nL9sjfBQsY10i3UXF7hVgA/editutm_content=DAFhsaAbbcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton%2Fview)]
+[[Slide](https://www.canva.com/design/DAFhsaAbbcs/nL9sjfBQsY10i3UXF7hVgA/edit?utm_content=DAFhsaAbbcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton%2Fview)]
 
 # Get Started
 
